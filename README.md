@@ -1,5 +1,5 @@
 
-# Bankist Web App
+# [🎉Bankist🏦 Web App ↗ ](https://cksharma2468.github.io/)
 
 
 Welcome to Bankist Web App! This is a fully functional digital banking application built with HTML, CSS, and JavaScript, utilizing DOM manipulation to provide a seamless user experience. With Bankist, you can enjoy instant loan service and hassle-free account closure, making it a perfect platform for your banking needs.
@@ -11,6 +11,10 @@ Welcome to Bankist Web App! This is a fully functional digital banking applicati
 2. **Instant Loan Service:** Need financial assistance? Bankist's instant loan service enables you to apply for a loan quickly and efficiently, making it convenient for urgent financial requirements.
 
 3. **Hassle-Free Account Closure:** Unlike traditional banks, Bankist allows you to close your account hassle-free, without any lengthy paperwork or unnecessary delays.
+
+## Live hosted link :- 
+
+https://cksharma2468.github.io/
 
 ## How to Use
 
@@ -32,9 +36,7 @@ cd bankist-web-app
 
 4. Explore the Bankist Web App and test out its various features, such as account transactions, loan service, and account closure.
 
-## Live hosted link :- 
 
-https://cksharma2468.github.io/
 
 
 ## Screenshots
