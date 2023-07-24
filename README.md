@@ -32,14 +32,39 @@ cd bankist-web-app
 
 4. Explore the Bankist Web App and test out its various features, such as account transactions, loan service, and account closure.
 
+## Screenshots
+
+1.**Navigation bar**
+
+![Screenshot (14)](https://github.com/cksharma2468/Bankist/assets/90388871/526bb584-0231-43d8-83f7-fffcc508fab1)
+
+2. **Features**
+   
+![Screenshot (15)](https://github.com/cksharma2468/Bankist/assets/90388871/cbd43122-3966-4181-b76f-93efe4f01cd5)
+
+3. **Operations**
+   
+   ![Screenshot (16)](https://github.com/cksharma2468/Bankist/assets/90388871/f7bfcbd1-39ba-4c6a-9c71-4d05c92944f3)
+
+5. **Testimonials**
+   
+   ![Screenshot (17)](https://github.com/cksharma2468/Bankist/assets/90388871/3e0f7f05-2144-4d77-adc7-912eef1c8ed2)
+
+7. **Footer page**
+
+   ![Screenshot (18)](https://github.com/cksharma2468/Bankist/assets/90388871/902a5bad-dfa1-4295-a88d-6fb26aaa5aba)
 
 
-## Technologies Used
+## Technologies used!
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-
+  
+  **Features**
+- Responsive web page
+- Lazy loading
+  
 ## Contributing
 
 If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request. Contributions from the community are highly appreciated!
