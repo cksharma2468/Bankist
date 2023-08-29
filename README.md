@@ -12,7 +12,7 @@ Welcome to Bankist Web App! This is a fully functional digital banking applicati
 
 3. **Hassle-Free Account Closure:** Unlike traditional banks, Bankist allows you to close your account hassle-free, without any lengthy paperwork or unnecessary delays.
 
-## Live hosted link :- 
+## Project link :- 
 
 https://cksharma2468.github.io/
 
